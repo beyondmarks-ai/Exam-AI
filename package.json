@@ -1,0 +1,14 @@
+{
+  "name": "exam-ai",
+  "version": "1.0.0",
+  "description": "Exam-AI desktop software by Beyond Marks AI Academy",
+  "main": "src/main.js",
+  "private": true,
+  "scripts": {
+    "start": "electron .",
+    "check": "node --check src/main.js && node --check src/preload.js && node --check src/renderer/app.js"
+  },
+  "devDependencies": {
+    "electron": "^30.5.1"
+  }
+}

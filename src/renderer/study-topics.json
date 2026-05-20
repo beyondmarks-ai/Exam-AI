@@ -1,0 +1,27 @@
+[
+  {
+    "id": "polity",
+    "name": "Indian Polity",
+    "question": "Discuss the significance of the basic structure doctrine in preserving constitutional democracy in India."
+  },
+  {
+    "id": "economy",
+    "name": "Indian Economy",
+    "question": "Examine the role of inclusive growth in reducing poverty and regional inequality in India."
+  },
+  {
+    "id": "environment",
+    "name": "Environment",
+    "question": "Analyse the challenges India faces in balancing economic development with environmental conservation."
+  },
+  {
+    "id": "history",
+    "name": "Modern History",
+    "question": "Evaluate the contribution of socio-religious reform movements to the rise of Indian nationalism."
+  },
+  {
+    "id": "international-relations",
+    "name": "International Relations",
+    "question": "Assess the importance of India's neighbourhood first policy in the changing geopolitical environment."
+  }
+]
